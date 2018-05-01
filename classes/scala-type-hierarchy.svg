@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="777px" height="418px" viewBox="0 0 777 418" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>scala-type-hierarchy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="scala-type-hierarchy" transform="translate(-1.000000, -4.000000)">
+            <g id="Arrow-01" transform="translate(494.237934, 56.149374) rotate(-343.000000) translate(-494.237934, -56.149374) translate(386.203109, 46.149374)">
+                <g transform="translate(0.000000, 3.000000)">
+                    <path d="M0,6.75 L207.606667,6.75" id="Stroke-02" stroke="#9B9B9B" stroke-width="1.5"></path>
+                    <path d="M216,6.49965827 C212.012869,7.93969823 207.06616,10.3974029 204,13 L206.415443,6.49965827 L204,0 C207.06616,2.60328058 212.012869,5.06030177 216,6.49965827" id="Arrow-head-01" fill="#9B9B9B"></path>
+                </g>
+            </g>
+            <g id="Arrow-01" transform="translate(288.108008, 56.391051) scale(-1, 1) rotate(-343.000000) translate(-288.108008, -56.391051) translate(180.073183, 46.391051)">
+                <g transform="translate(0.000000, 3.000000)">
+                    <path d="M0,6.75 L207.606667,6.75" id="Stroke-02" stroke="#9B9B9B" stroke-width="1.5"></path>
+                    <path d="M216,6.49965827 C212.012869,7.93969823 207.06616,10.3974029 204,13 L206.415443,6.49965827 L204,0 C207.06616,2.60328058 212.012869,5.06030177 216,6.49965827" id="Arrow-head-01" fill="#9B9B9B"></path>
+                </g>
+            </g>
+            <g id="Arrow-01" transform="translate(116.948576, 150.401485) scale(-1, 1) rotate(-690.000000) translate(-116.948576, -150.401485) translate(39.565254, 140.401485)">
+                <g transform="translate(0.000000, 3.000000)">
+                    <path d="M0,6.75 L147.013333,6.75" id="Stroke-02" stroke="#9B9B9B" stroke-width="1.5"></path>
+                    <path d="M155,6.49965827 C151.012869,7.93969823 146.06616,10.3974029 143,13 L145.415443,6.49965827 L143,0 C146.06616,2.60328058 151.012869,5.06030177 155,6.49965827" id="Arrow-head-01" fill="#9B9B9B"></path>
+                </g>
+            </g>
+            <g id="Arrow-01" transform="translate(250.015923, 150.351915) rotate(-690.000000) translate(-250.015923, -150.351915) translate(172.632601, 140.351915)">
+                <g transform="translate(0.000000, 3.000000)">
+                    <path d="M0,6.75 L147.013333,6.75" id="Stroke-02" stroke="#9B9B9B" stroke-width="1.5"></path>
+                    <path d="M155,6.49965827 C151.012869,7.93969823 146.06616,10.3974029 143,13 L145.415443,6.49965827 L143,0 C146.06616,2.60328058 151.012869,5.06030177 155,6.49965827" id="Arrow-head-01" fill="#9B9B9B"></path>
+                </g>
+            </g>
+            <g id="Arrow-01" transform="translate(209.332078, 150.566730) rotate(-664.000000) translate(-209.332078, -150.566730) translate(162.846289, 140.566730)">
+                <g transform="translate(0.000000, 3.000000)">
+                    <path d="M0,6.75 L85.4266667,6.75" id="Stroke-02" stroke="#9B9B9B" stroke-width="1.5"></path>
+                    <path d="M93,6.49965827 C89.0128693,7.93969823 84.0661597,10.3974029 81,13 L83.4154431,6.49965827 L81,0 C84.0661597,2.60328058 89.0128693,5.06030177 93,6.49965827" id="Arrow-head-01" fill="#9B9B9B"></path>
+                </g>
+            </g>
+            <g id="Arrow-01" transform="translate(157.284899, 151.130395) scale(-1, 1) rotate(-664.000000) translate(-157.284899, -151.130395) translate(110.799110, 141.130395)">
+                <g transform="translate(0.000000, 3.000000)">
+                    <path d="M0,6.75 L85.4266667,6.75" id="Stroke-02" stroke="#9B9B9B" stroke-width="1.5"></path>
+                    <path d="M93,6.49965827 C89.0128693,7.93969823 84.0661597,10.3974029 81,13 L83.4154431,6.49965827 L81,0 C84.0661597,2.60328058 89.0128693,5.06030177 93,6.49965827" id="Arrow-head-01" fill="#9B9B9B"></path>
+                </g>
+            </g>
+            <g id="Arrow-01" transform="translate(533.551612, 158.489337) scale(-1, 1) rotate(-698.000000) translate(-533.551612, -158.489337) translate(461.535689, 148.489337)">
+                <g transform="translate(0.000000, 3.000000)">
+                    <path d="M0,6.75 L136.086667,6.75" id="Stroke-02" stroke="#9B9B9B" stroke-width="1.5"></path>
+                    <path d="M144,6.49965827 C140.012869,7.93969823 135.06616,10.3974029 132,13 L134.415443,6.49965827 L132,0 C135.06616,2.60328058 140.012869,5.06030177 144,6.49965827" id="Arrow-head-01" fill="#9B9B9B"></path>
+                </g>
+            </g>
+            <g id="Arrow-01" transform="translate(667.217807, 158.739561) rotate(-698.000000) translate(-667.217807, -158.739561) translate(594.533919, 148.739561)">
+                <g transform="translate(0.000000, 3.000000)">
+                    <path d="M0,6.75 L137.08,6.75" id="Stroke-02" stroke="#9B9B9B" stroke-width="1.5"></path>
+                    <path d="M145,6.49965827 C141.012869,7.93969823 136.06616,10.3974029 133,13 L135.415443,6.49965827 L133,0 C136.06616,2.60328058 141.012869,5.06030177 145,6.49965827" id="Arrow-head-01" fill="#9B9B9B"></path>
+                </g>
+            </g>
+            <g id="Arrow-01" transform="translate(618.315285, 160.830316) rotate(-662.000000) translate(-618.315285, -160.830316) translate(584.149745, 150.830316)">
+                <g transform="translate(0.000000, 3.000000)">
+                    <path d="M0,6.75 L60.5933333,6.75" id="Stroke-02" stroke="#9B9B9B" stroke-width="1.5"></path>
+                    <path d="M68,6.49965827 C64.0128693,7.93969823 59.0661597,10.3974029 56,13 L58.4154431,6.49965827 L56,0 C59.0661597,2.60328058 64.0128693,5.06030177 68,6.49965827" id="Arrow-head-01" fill="#9B9B9B"></path>
+                </g>
+            </g>
+            <g id="Arrow-01" transform="translate(580.267227, 160.755688) scale(-1, 1) rotate(-664.000000) translate(-580.267227, -160.755688) translate(545.268000, 150.755688)">
+                <g transform="translate(0.000000, 3.000000)">
+                    <path d="M0,6.75 L62.58,6.75" id="Stroke-02" stroke="#9B9B9B" stroke-width="1.5"></path>
+                    <path d="M70,6.49965827 C66.0128693,7.93969823 61.0661597,10.3974029 58,13 L60.4154431,6.49965827 L58,0 C61.0661597,2.60328058 66.0128693,5.06030177 70,6.49965827" id="Arrow-head-01" fill="#9B9B9B"></path>
+                </g>
+            </g>
+            <text id="Any" fill="#000000" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal">
+                <tspan x="378.299447" y="15">Any</tspan>
+            </text>
+            <text id="AnyVal" fill="#000000" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal">
+                <tspan x="163.66237" y="104">AnyVal</tspan>
+            </text>
+            <text id="Int" fill="#000000" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal">
+                <tspan x="23.8336263" y="203">Int</tspan>
+            </text>
+            <text id="=-java-int" fill="#4A4A4A" font-family="OpenSans, Open Sans" font-size="12" font-weight="normal">
+                <tspan x="0.98990886" y="224.425781">= java int</tspan>
+            </text>
+            <text id="Double" fill="#000000" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal">
+                <tspan x="112.990983" y="203">Double</tspan>
+            </text>
+            <text id="=-java-double" fill="#4A4A4A" font-family="OpenSans, Open Sans" font-size="12" font-weight="normal">
+                <tspan x="92.8096354" y="224.425781">= java double</tspan>
+            </text>
+            <text id="Boolean" fill="#000000" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal">
+                <tspan x="213.744444" y="203">Boolean</tspan>
+            </text>
+            <text id="=-java-boolean" fill="#4A4A4A" font-family="OpenSans, Open Sans" font-size="12" font-weight="normal">
+                <tspan x="193.54056" y="224.425781">= java boolean</tspan>
+            </text>
+            <text id="Array[T]" fill="#000000" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal">
+                <tspan x="516.736187" y="203">Array[T]</tspan>
+            </text>
+            <text id="=-java-array" fill="#4A4A4A" font-family="OpenSans, Open Sans" font-size="12" font-weight="normal">
+                <tspan x="503.862891" y="224.425781">= java array</tspan>
+            </text>
+            <text id="All-Java" fill="#000000" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal">
+                <tspan x="623.689312" y="203">All Java</tspan>
+            </text>
+            <text id="classes" fill="#000000" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal">
+                <tspan x="615.984679" y="223.330078">classes</tspan>
+            </text>
+            <text id="All-Scala" fill="#000000" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal">
+                <tspan x="726.138574" y="203">All Scala</tspan>
+            </text>
+            <text id="classes" fill="#000000" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal">
+                <tspan x="721.984679" y="223.330078">classes</tspan>
+            </text>
+            <text id="java.lang.String" fill="#000000" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal">
+                <tspan x="391.125694" y="203">java.lang.String</tspan>
+            </text>
+            <text id="AnyRef" fill="#000000" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal">
+                <tspan x="577.664909" y="104">AnyRef</tspan>
+            </text>
+            <text id="=-java.lang.Object" fill="#4A4A4A" font-family="OpenSans, Open Sans" font-size="12" font-weight="normal">
+                <tspan x="545" y="125.425781">= java.lang.Object</tspan>
+            </text>
+            <text id="Nothing" fill="#000000" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal">
+                <tspan x="294.448546" y="397">Nothing</tspan>
+            </text>
+            <text id="type-of-throw" fill="#4A4A4A" font-family="OpenSans, Open Sans" font-size="12" font-weight="normal">
+                <tspan x="276.967578" y="418.425781">type of throw</tspan>
+            </text>
+            <text id="Null" fill="#000000" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal">
+                <tspan x="454.45574" y="323">Null</tspan>
+            </text>
+            <text id="type-of-null" fill="#4A4A4A" font-family="OpenSans, Open Sans" font-size="12" font-weight="normal">
+                <tspan x="429.842969" y="344.425781">type of null</tspan>
+            </text>
+            <text id="Unit" fill="#000000" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal">
+                <tspan x="312.436209" y="204">Unit</tspan>
+            </text>
+            <text id="~-java-void" fill="#4A4A4A" font-family="OpenSans, Open Sans" font-size="12" font-weight="normal">
+                <tspan x="290.108008" y="225.425781">~ java void</tspan>
+            </text>
+            <text id="etc…" fill="#000000" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal">
+                <tspan x="169.350271" y="267">etc…</tspan>
+            </text>
+            <path d="" id="Line-decoration-1" stroke="#979797" stroke-linecap="round"></path>
+            <path d="M320.8865,381.179343 L260.13314,345.314509" id="Line" stroke="#979797" stroke-width="1.5" stroke-linecap="round"></path>
+            <path d="M320.711794,380.730895 L293,345" id="Line" stroke="#979797" stroke-width="1.5" stroke-linecap="round"></path>
+            <path d="M321,380.55019 L349.165574,345" id="Line" stroke="#979797" stroke-width="1.5" stroke-linecap="round"></path>
+            <path d="M321.046982,381.008454 L446.515385,321.5" id="Line" stroke="#979797" stroke-width="1.5" stroke-linecap="round"></path>
+            <path d="M467.812074,307.179343 L367.220445,271.314509" id="Line" stroke="#979797" stroke-width="1.5" stroke-linecap="round"></path>
+            <path d="M467.735528,307.096786 L423.198716,271.365891" id="Line" stroke="#979797" stroke-width="1.5" stroke-linecap="round"></path>
+            <path d="M467.870994,306.957072 L513.137096,271.406882" id="Line" stroke="#979797" stroke-width="1.5" stroke-linecap="round"></path>
+            <path d="M468.077876,307.008454 L566.184555,271.328942" id="Line" stroke="#979797" stroke-width="1.5" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>
