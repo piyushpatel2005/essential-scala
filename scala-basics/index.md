@@ -4,8 +4,8 @@ In this section we explore the fundamental constructs of Scala. We look at the b
 
 ## Table of Contents
 
-- [Introducing Expressions](expressions.html)
-- [Introducing Scala's Type System](types.html)
-- [Introducing Definitions](definitions.html)
-- [Introducing Statements](statements.html)
-- [More Complex Programs](more-expressions.html)
+- [Introducing Expressions](expressions.md)
+- [Introducing Scala's Type System](types.md)
+- [Introducing Definitions](definitions.md)
+- [Introducing Statements](statements.md)
+- [More Complex Programs](more-expressions.md)
